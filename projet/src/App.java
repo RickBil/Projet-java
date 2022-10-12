@@ -10,6 +10,7 @@ import services.Service;
 import views.ClasseView;
 import views.UserView;
 
+
 public class App {
     
     public static void main(String[] args) throws Exception {
